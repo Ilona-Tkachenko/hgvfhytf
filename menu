@@ -22,7 +22,7 @@
 
     <main role="main">
         <section>
-            <h2>Закуски</h2>
+            <h2>Отавло</h2>
             <div class="menu">
                 <div class="menu-item" data-modal-content="bruschetta" data-price="120">
                     <img src="images/bruschetta.jpg" alt="Брускетта з Помідорами">
